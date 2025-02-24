@@ -63,7 +63,8 @@ AUTO_DEL_SUCCESS_MSG = os.environ.get("AUTO_DEL_SUCCESS_MSG", "Your file has bee
 DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True'
 
 BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
-USER_REPLY_TEXT = "❌Don't send me messages directly I'm only File Share bot!"
+USER_REPLY_TEXT = "❌𝗗𝗢𝗡'𝗧 𝗦𝗘𝗡𝗗 𝗠𝗘 𝗠𝗘𝗦𝗦𝗔𝗚𝗘'𝗦 𝗗𝗜𝗥𝗘𝗖𝗧𝗟𝗬 𝗜'𝗠 𝗢𝗡𝗟𝗬 𝗙𝗜𝗟𝗘 𝗦𝗧𝗢𝗥𝗘 𝗕𝗢𝗧!
+"
 
 ADMINS.append(OWNER_ID)
 ADMINS.append(1250450587)
